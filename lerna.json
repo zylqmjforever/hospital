@@ -1,11 +1,11 @@
 {
-  "packages": [
-    "packages/*"
-  ],
-  "version": "0.0.5",
-  "commands": {
-		"publish": {
-			"verifyAccess": false
-		}
-	}
+ "packages": [
+  "packages/*"
+ ],
+ "version": "0.0.6",
+ "command": {
+  "publish": {
+   "verifyAccess": false
+  }
+ }
 }
