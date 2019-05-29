@@ -14,7 +14,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://npm.byted.org"
+    "registry": "http://npm.byted.org",
+    "access": "public"
   },
   "scripts": {
     "tsc": "tsc",
