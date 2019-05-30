@@ -2,10 +2,17 @@
  "packages": [
   "packages/*"
  ],
+  "version": "independent",
+
  "version": "0.0.8",
  "command": {
   "publish": {
-   "verifyAccess": false
+   "verifyAccess": false,
+ "allowBranch": ["master", "next"],
+      "message": "chore(release): publish",
+      "npmTag": "latest",
+      "noVerifyAccess": true,
+      "conventionalCommits": true
   }
  }
 }
