@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.17](https://github.com/zylqmjforever/hospital/compare/@hospital-my-test/doctor@0.0.16...@hospital-my-test/doctor@0.0.17) (2019-06-10)
+
+**Note:** Version bump only for package @hospital-my-test/doctor
+
+
+
+
+
 ## [0.0.16](https://github.com/zylqmjforever/hospital/compare/@hospital-my-test/doctor@0.0.15...@hospital-my-test/doctor@0.0.16) (2019-06-10)
 
 **Note:** Version bump only for package @hospital-my-test/doctor
