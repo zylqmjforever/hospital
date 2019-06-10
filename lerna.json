@@ -1,19 +1,14 @@
 {
- "packages": [
-  "packages/*"
- ],
- "version": "0.0.9",
- "command": {
-  "publish": {
-   "verifyAccess": false,
-   "allowBranch": [
-    "master",
-    "next"
-   ],
-   "message": "chore(release): publish",
-   "noVerifyAccess": true,
-   "conventionalCommits": true,
-   "distTag": "latest"
+  "packages": ["packages/*"],
+  "version": "independent",
+  "command": {
+    "publish": {
+      "verifyAccess": false,
+      "allowBranch": ["master", "next"],
+      "message": "chore(release): publish",
+      "noVerifyAccess": true,
+      "conventionalCommits": true,
+      "distTag": "latest"
+    }
   }
- }
 }
