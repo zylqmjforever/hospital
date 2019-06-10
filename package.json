@@ -1,5 +1,4 @@
 {
-  "name": "root",
   "devDependencies": {
     "@types/node": "^12.0.3",
     "lerna": "^3.14.1",
